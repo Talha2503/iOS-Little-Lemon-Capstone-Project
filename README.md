@@ -104,7 +104,7 @@ Users can edit their information, save changes, and log out when required.
 
 ## 🧭 Application Flow
 
-```text
+``
                 ┌─────────────────┐
                 │    App Launch   │
                 └────────┬────────┘
